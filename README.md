@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/32866559/149989331-94e7a6f9-b048-498c-af99-dbfa9a2e3508.JPG" width="480" height="384">
+
 # Glider PRO
 
 This repository contains the source code of Glider PRO, ported to run
